@@ -1,1 +1,1 @@
-print("Hola desde mi primer repositorio de GitHub")
+print("Hola desde VS code + GitHub")
